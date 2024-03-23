@@ -1,4 +1,4 @@
 __pycache__/
 *.pyc
 favicon.ico
-chapter6_database/planner_mongodb/store/*
+**/store/
