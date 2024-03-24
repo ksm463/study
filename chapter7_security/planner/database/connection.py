@@ -8,6 +8,7 @@ from models.users import User
 
 
 class Settings(BaseSettings):
+    SECRET_KEY: Optional[str] = None
     DATABASE_URL: Optional[str] = None
 
     async def initialize_database(self):
@@ -16,8 +17,8 @@ class Settings(BaseSettings):
         await init_beanie(database=database,
                           document_models=[Event, User])
 
-        class Config:
-            env_file = ".env"
+    class Config:
+        env_file = ".env"
 
 
 class Database:
