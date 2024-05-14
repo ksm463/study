@@ -1,9 +1,15 @@
 # study
 Codes studied from various references
 
+# 01. data_analysis_practical
+studying machinelearning to prepare certification of bigdata-analysis engineer
+
+# 01. python-basic
+studying python basic to prepare codingtest
+
 # 01. web-FastAPI
 studying FastAPI book record</br>
 </br>
-![B9703548802_l](https://github.com/ksm463/web-FastAPI/assets/113885176/70add5df-2e75-4b07-a919-9c191bf59bd0)
+![webfastapi](https://github.com/ksm463/study/assets/113885176/8f9abc90-c347-4704-a8b3-1415cfebd7be)
 
 https://github.com/hanbit/web-with-fastapi?tab=readme-ov-file
